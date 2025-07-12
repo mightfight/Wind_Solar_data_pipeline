@@ -19,7 +19,7 @@ This project fetches **1 year’s worth of wind and solar generation data** from
 
 ### 1. Clone the repo (or copy the files)
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mightfight/Wind_Solar_data_pipeline
 cd <project-folder>
 
 ## 🧪 API Used
