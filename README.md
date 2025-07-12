@@ -21,11 +21,8 @@ This project fetches **1 year’s worth of wind and solar generation data** from
 ```bash
 git clone <your-repo-url>
 cd <project-folder>
+```
 
 ## 🧪 API Used
 
 [Elexon BMRS API - Wind and Solar Endpoint](https://bmrs.elexon.co.uk/api-documentation/endpoint/generation/actual/per-type/wind-and-sola)
-
-## 📄 License
-
-This project is submitted for technical review. No license included.
