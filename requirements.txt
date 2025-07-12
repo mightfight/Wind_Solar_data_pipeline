@@ -1,0 +1,7 @@
+requests
+pandas
+python-dateutil
+matplotlib
+seaborn
+plotly
+pytest
